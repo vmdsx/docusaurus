@@ -120,15 +120,15 @@ const config: Config = {
           items: [
             {
               label: 'Automações',
-              to: '/docs/automacoes',
+              to: '/docs/Automacoes',
             },
             {
               label: 'Coletas',
-              to: '/docs/coletas',
+              to: '/docs/Coletas',
             },
             {
               label: 'Django',
-              to: '/docs/django',
+              to: '/docs/Django',
             },
           ],
         },
@@ -137,11 +137,11 @@ const config: Config = {
           items: [
             {
               label: 'Power BI',
-              to: '/docs/powerBi',
+              to: '/docs/Power BI',
             },
             {
               label: 'SQL',
-              to: '/docs/sql',
+              to: '/docs/SQL',
             },
           ],
         },
