@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://vmdsx.github.io/',
+  url: 'https://vmdsx.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docusaurus/',
@@ -27,8 +27,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'pt-BR',
-    locales: ['pt-BR'],
+    defaultLocale: 'pt-br',
+    locales: ['pt-br'],
   },
 
   presets: [
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/vmdsx/docusaurus/',
+            'https://github.com/vmdsx/docusaurus/blob/main',
         },
         blog: {
           showReadingTime: true,
@@ -51,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/vmdsx/docusaurus/',
+            'https://github.com/vmdsx/docusaurus/blob/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -104,7 +104,7 @@ const config: Config = {
           position: 'left',
           label: 'SQL',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/vmdsx/docusaurus',
           label: 'GitHub',
@@ -120,15 +120,15 @@ const config: Config = {
           items: [
             {
               label: 'Automações',
-              to: '/docs/Automacoes',
+              to: 'docs/Automacoes/',
             },
             {
               label: 'Coletas',
-              to: '/docs/Coletas',
+              to: 'docs/Coletas/',
             },
             {
               label: 'Django',
-              to: '/docs/Django',
+              to: 'docs/Django/',
             },
           ],
         },
@@ -137,11 +137,11 @@ const config: Config = {
           items: [
             {
               label: 'Power BI',
-              to: '/docs/Power BI',
+              to: 'docs/Power BI/',
             },
             {
               label: 'SQL',
-              to: '/docs/SQL',
+              to: 'docs/SQL/',
             },
           ],
         },
@@ -150,7 +150,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              to: 'blog/',
             },
           ],
         },

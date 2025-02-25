@@ -1,7 +1,6 @@
 ---
-# sidebar_position: 2
+sidebar_position: 2
 ---
-
 
 # ESCOPO 04/02/25
 
@@ -35,23 +34,25 @@ terça - feira, 4 de fevereiro de 2025
 - ii. atenuado,
 - iii. ok
 
-## Raman: e.
+## Raman: enlaces
 
 - i. status,
 - ii. ganho,
 - iii. target again,
 - iv. return loss
+
 - Público Alvo 4.
 - a. Técnicos de campo, N2
 - Recursos necessários 5.
 - a. Comandos cli de acesso aos elementos de cada vendor
-- 6. Cronograma
+
+- 6.Cronograma
 - Critérios de Aceitação 7.
 - a. Coleta de níveis dos 3 vendors
 - b. Dados de raman
 - Impacto esperado 8.
 - a. Diminuição de chamadas ao n2 por autonomia dos técnicos de campo
-- 9. Anexos
+- 9.Anexos
 
 ## COLETA INFOS
 
@@ -93,11 +94,11 @@ terça - feira, 4 de fevereiro de 2025
 
 terça -feira, 4 de fevereiro de 2025 09:51
 
-## Acesso no Portal: http://10.26.35.158:8000/lista\_enlaces
+## Acesso no Portal: [aqui](http://10.26.35.158:8000/lista_enlaces)
 
-## LINK FLUXO:
+## LINK FLUXO
 
-https://miro.com/welcomeonboard/Sk5ieVUweW5JajJCVXhMSE1yT2N2RUhNNWxSQUlvbXM5e
+[Diagrama](https://miro.com/welcomeonboard/Sk5ieVUweW5JajJCVXhMSE1yT2N2RUhNNWxSQUlvbXM5e)
 
 VQ3TE1aTmM3V1pxTk8wR09IVTFJdTZ1clg3RzBBUXlUWEEzOGJraER6dzkySjk5eSt4NVhSUGVBTD
 
